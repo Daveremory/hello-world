@@ -1,2 +1,4 @@
 # hello-world
 My first ever repository
+
+A little bit about me.  I'm getting a late formal start to the world of data.  Early, perhaps insofar as the projections for talent shortages continue growing, but I'm a Gen Xer that has been in the workforce for 25 years.  I've been a data hobbyist since 2002, when the first exchange traded funds were developed for investing - I used mostly time series data and used discovery to become a market technician. Throughout my career, data has always been necessary, but secondary.  I hope that can change and I just need a shot - I'll trade my experience in finance, operations and marketing for an entry level data analyst position with room for growth and otj training opportunities. Oh, I also love cycling, both road and trail.  I hope I can look back on this repository as my first step beyond the textbooks in a long second career.  - Dave Rich
